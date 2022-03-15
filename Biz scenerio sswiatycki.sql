@@ -1,4 +1,6 @@
 /*
+Note: Calculations are challenging therefore it requires an update after the insert as you cannot have a computed column based on a computed column.
+
 Good Evening,
 This is Sandra from the social services agency in Central Jersey.
 Our Department processes applications for the Supplemental Nutritional Assistance Program(Snap), also known as food stamps.
